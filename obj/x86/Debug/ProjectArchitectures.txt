@@ -1,0 +1,2 @@
+C:\Users\TETE\Documents\Visual Studio 2017\Projects\ThaiNationalIDCardReader\ThaiNationalIDCardReader\ThaiNationalIDCardReader.csproj;x86
+C:\Users\TETE\Source\Repos\PCSC_NETCORE\PCSC_NETCORE\PCSC_NETCORE.csproj;x86
